@@ -2,15 +2,17 @@
 
 `git clone https://github.com/ramonfabrega/Chase-Scraper/`
 
+`cd Chase-Scraper && npm i`
+
 ## Usage
 
-One liner run
+One liner run with `ENV`
 
-`USERNAME="$user" PASSWORD="$pass" node run balance.js`
+`USERNAME="$user" PASSWORD="$pass" node run scrape.js`
 
 ---
 
-Alternatively,
+Or,
 
 create `credentials.js` at root and input info
 
@@ -21,4 +23,4 @@ module.exports = {
 };
 ```
 
-and run with `node run balance.js`
+and run with `node run scrape.js`
