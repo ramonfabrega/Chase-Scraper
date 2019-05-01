@@ -6,7 +6,7 @@
 
 One liner run
 
-`USERNAME="$user PASSWORD="$pass node run balance.js`
+`USERNAME="$user" PASSWORD="$pass" node run balance.js`
 
 ---
 
