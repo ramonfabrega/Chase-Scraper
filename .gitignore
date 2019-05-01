@@ -2,3 +2,7 @@ node_modules/
 
 credentials.js
 output.txt
+
+user_data/
+
+test/img

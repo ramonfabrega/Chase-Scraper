@@ -3,8 +3,14 @@ const credentials = require('./credentials');
 const { parseData } = require('./helper');
 
 (async () => {
-  const browser = await puppeteer.launch({ headless: false });
+  const browser = await puppeteer.launch({
+    headless: true,
+    userDataDir: './user_data'
+  });
   const page = await browser.newPage();
+  await page.setUserAgent(
+    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36'
+  );
 
   const USERNAME_SELECTOR = '#userId-input-field';
   const PASSWORD_SELECTOR = '#password-input-field';
@@ -29,7 +35,14 @@ const { parseData } = require('./helper');
     .then(() => iframe.type(PASSWORD_SELECTOR, credentials.password))
     .catch(err => console.log(err));
 
+  await page.screenshot({ path: './test/img/chase1.png', fullPage: true });
+
   await iframe.click(LOGIN_BUTTON);
+
+  await page.screenshot({ path: './test/img/chase2.png', fullPage: true });
+
+  await page.waitFor(10000);
+  await page.screenshot({ path: './test/img/chase3.png', fullPage: true });
 
   await page.waitForSelector(MORE_INFO_SELECTOR);
   await page.click(MORE_INFO_SELECTOR);
