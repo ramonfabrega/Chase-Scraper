@@ -3,6 +3,9 @@ const credentials = require('./credentials');
 const { parseData } = require('./helper');
 
 (async () => {
+  const username = process.env.USERNAME || credentials.username;
+  const password = process.env.PASSWORD || credentials.password;
+
   const browser = await puppeteer.launch({
     headless: true,
     userDataDir: './user_data'
@@ -27,12 +30,12 @@ const { parseData } = require('./helper');
 
   await iframe
     .waitForSelector(USERNAME_SELECTOR)
-    .then(() => iframe.type(USERNAME_SELECTOR, credentials.username))
+    .then(() => iframe.type(USERNAME_SELECTOR, username))
     .catch(err => console.log(err));
 
   await iframe
     .waitForSelector(PASSWORD_SELECTOR)
-    .then(() => iframe.type(PASSWORD_SELECTOR, credentials.password))
+    .then(() => iframe.type(PASSWORD_SELECTOR, password))
     .catch(err => console.log(err));
 
   await page.screenshot({ path: './test/img/chase1.png', fullPage: true });
