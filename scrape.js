@@ -1,6 +1,6 @@
 const puppeteer = require('puppeteer');
 const credentials = require('./credentials');
-const { parseData } = require('./helper');
+const { filter } = require('./filter');
 
 (async () => {
   const username = process.env.USERNAME || credentials.username;
@@ -38,14 +38,7 @@ const { parseData } = require('./helper');
     .then(() => iframe.type(PASSWORD_SELECTOR, password))
     .catch(err => console.log(err));
 
-  await page.screenshot({ path: './test/img/chase1.png', fullPage: true });
-
   await iframe.click(LOGIN_BUTTON);
-
-  await page.screenshot({ path: './test/img/chase2.png', fullPage: true });
-
-  await page.waitFor(10000);
-  await page.screenshot({ path: './test/img/chase3.png', fullPage: true });
 
   await page.waitForSelector(MORE_INFO_SELECTOR);
   await page.click(MORE_INFO_SELECTOR);
@@ -60,6 +53,8 @@ const { parseData } = require('./helper');
     entries => entries.map(e => e.textContent)
   );
 
-  const temp = parseData(entries);
-  console.log(temp);
+  const temp = filter(entries);
+  console.log(JSON.stringify(temp));
+
+  browser.close();
 })();
