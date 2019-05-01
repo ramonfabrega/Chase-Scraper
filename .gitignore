@@ -1,3 +1,4 @@
 node_modules/
 
-creds.js
+credentials.js
+output.txt
