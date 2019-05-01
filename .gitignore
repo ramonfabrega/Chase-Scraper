@@ -6,3 +6,4 @@ output.txt
 user_data/
 
 test/img
+test/transaction_log.csv
