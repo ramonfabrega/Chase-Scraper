@@ -2,7 +2,7 @@ const DESCRIPTION_WORDS = 3;
 
 const KEYWORDS = ['VENMO', 'CHIPOTLE', 'CHICK-FIL-A', 'PLUCKERS', 'DOORDASH'];
 
-const filterData = arr =>
+const filterJunk = arr =>
   arr.filter(
     e =>
       !(
@@ -73,4 +73,4 @@ const groupBy = key => array =>
     {}
   );
 
-module.exports.filter = d => buildObjects(filterData(d));
+module.exports.filter = d => buildObjects(filterJunk(d));

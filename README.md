@@ -8,7 +8,7 @@
 
 One liner run with `ENV`
 
-`USERNAME="$user" PASSWORD="$pass" node run scrape.js`
+`USERNAME="$user" PASSWORD="$pass" node scrape.js > dump.json`
 
 ---
 
@@ -23,4 +23,4 @@ module.exports = {
 };
 ```
 
-and run with `node run scrape.js`
+and run with `node scrape.js > dump.json`

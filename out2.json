@@ -1,0 +1,1475 @@
+{
+  "byDate": {
+    "Pending": {
+      "total": 99.35,
+      "count": 2,
+      "average": 49.67,
+      "data": [
+        {
+          "date": "Pending",
+          "description": "POS DEBIT UBER",
+          "type": "Misc. debit",
+          "amount": -0.65
+        },
+        {
+          "date": "Pending",
+          "description": "DEPOSIT",
+          "type": "Misc. credit",
+          "amount": 100
+        }
+      ]
+    },
+    "Apr 30, 2019": {
+      "total": -113.74,
+      "count": 2,
+      "average": -56.87,
+      "data": [
+        {
+          "date": "Apr 30, 2019",
+          "description": "INSUFFICIENT FUNDS FEE",
+          "type": "Fee",
+          "amount": -34
+        },
+        {
+          "date": "Apr 30, 2019",
+          "description": "JUUL TOBACCO PRODUCTS",
+          "type": "Card",
+          "amount": -79.74
+        }
+      ]
+    },
+    "Apr 29, 2019": {
+      "total": 9.95,
+      "count": 5,
+      "average": 1.99,
+      "data": [
+        {
+          "date": "Apr 29, 2019",
+          "description": "BODEGA ON RIO",
+          "type": "Card",
+          "amount": -14.01
+        },
+        {
+          "date": "Apr 29, 2019",
+          "description": "BODEGA ON RIO",
+          "type": "Card",
+          "amount": -17.31
+        },
+        {
+          "date": "Apr 29, 2019",
+          "description": "UBER JUMP",
+          "type": "Card",
+          "amount": -0.49
+        },
+        {
+          "date": "Apr 29, 2019",
+          "description": "CHICK-FIL-A",
+          "type": "Card",
+          "amount": -7.74
+        },
+        {
+          "date": "Apr 29, 2019",
+          "description": "VENMO",
+          "type": "Card",
+          "amount": 49.5
+        }
+      ]
+    },
+    "Apr 25, 2019": {
+      "total": -23.8,
+      "count": 2,
+      "average": -11.9,
+      "data": [
+        {
+          "date": "Apr 25, 2019",
+          "description": "VENMO",
+          "type": "ACH debit",
+          "amount": -10
+        },
+        {
+          "date": "Apr 25, 2019",
+          "description": "UBER EATS",
+          "type": "Card",
+          "amount": -13.8
+        }
+      ]
+    },
+    "Apr 23, 2019": {
+      "total": -21.32,
+      "count": 2,
+      "average": -10.66,
+      "data": [
+        {
+          "date": "Apr 23, 2019",
+          "description": "UBER EATS",
+          "type": "Card",
+          "amount": -12.95
+        },
+        {
+          "date": "Apr 23, 2019",
+          "description": "BODEGA ON RIO",
+          "type": "Card",
+          "amount": -8.37
+        }
+      ]
+    },
+    "Apr 22, 2019": {
+      "total": -73.63,
+      "count": 5,
+      "average": -14.73,
+      "data": [
+        {
+          "date": "Apr 22, 2019",
+          "description": "PLUCKERS",
+          "type": "Card",
+          "amount": -14.61
+        },
+        {
+          "date": "Apr 22, 2019",
+          "description": "CAIN AND ABELS",
+          "type": "Card",
+          "amount": -7.5
+        },
+        {
+          "date": "Apr 22, 2019",
+          "description": "CAIN AND ABELS",
+          "type": "Card",
+          "amount": -6
+        },
+        {
+          "date": "Apr 22, 2019",
+          "description": "CHIPOTLE",
+          "type": "Card",
+          "amount": -13.5
+        },
+        {
+          "date": "Apr 22, 2019",
+          "description": "DOORDASH",
+          "type": "Card",
+          "amount": -32.02
+        }
+      ]
+    },
+    "Apr 19, 2019": {
+      "total": -4.05,
+      "count": 4,
+      "average": -1.01,
+      "data": [
+        {
+          "date": "Apr 19, 2019",
+          "description": "UBER JUMP",
+          "type": "Card",
+          "amount": -0.65
+        },
+        {
+          "date": "Apr 19, 2019",
+          "description": "UBER JUMP",
+          "type": "Card",
+          "amount": -0.81
+        },
+        {
+          "date": "Apr 19, 2019",
+          "description": "UBER JUMP",
+          "type": "Card",
+          "amount": -1.62
+        },
+        {
+          "date": "Apr 19, 2019",
+          "description": "UBER JUMP",
+          "type": "Card",
+          "amount": -0.97
+        }
+      ]
+    },
+    "Apr 18, 2019": {
+      "total": 125,
+      "count": 1,
+      "average": 125,
+      "data": [
+        {
+          "date": "Apr 18, 2019",
+          "description": "QUICKPAY WITH ZELLE",
+          "type": "QuickPay credit",
+          "amount": 125
+        }
+      ]
+    },
+    "Apr 15, 2019": {
+      "total": -10.74,
+      "count": 3,
+      "average": -3.58,
+      "data": [
+        {
+          "date": "Apr 15, 2019",
+          "description": "UBER EATS",
+          "type": "Card",
+          "amount": -31.24
+        },
+        {
+          "date": "Apr 15, 2019",
+          "description": "VENMO",
+          "type": "Card",
+          "amount": 4.75
+        },
+        {
+          "date": "Apr 15, 2019",
+          "description": "VENMO",
+          "type": "Card",
+          "amount": 15.75
+        }
+      ]
+    },
+    "Apr 11, 2019": {
+      "total": -78.57,
+      "count": 4,
+      "average": -19.64,
+      "data": [
+        {
+          "date": "Apr 11, 2019",
+          "description": "JUUL TOBACCO PRODUCTS",
+          "type": "Card",
+          "amount": -79.74
+        },
+        {
+          "date": "Apr 11, 2019",
+          "description": "KINDLE UNLTD",
+          "type": "Card",
+          "amount": -10.81
+        },
+        {
+          "date": "Apr 11, 2019",
+          "description": "UBER JUMP",
+          "type": "Card",
+          "amount": -0.97
+        },
+        {
+          "date": "Apr 11, 2019",
+          "description": "UBER EATS",
+          "type": "Card",
+          "amount": 12.95
+        }
+      ]
+    },
+    "Apr 10, 2019": {
+      "total": -36.36,
+      "count": 3,
+      "average": -12.12,
+      "data": [
+        {
+          "date": "Apr 10, 2019",
+          "description": "APL",
+          "type": "Card",
+          "amount": -0.99
+        },
+        {
+          "date": "Apr 10, 2019",
+          "description": "UBER EATS",
+          "type": "Card",
+          "amount": -26.96
+        },
+        {
+          "date": "Apr 10, 2019",
+          "description": "BODEGA ON RIO",
+          "type": "Card",
+          "amount": -8.41
+        }
+      ]
+    },
+    "Apr 9, 2019": {
+      "total": -20.69,
+      "count": 8,
+      "average": -2.59,
+      "data": [
+        {
+          "date": "Apr 9, 2019",
+          "description": "VENMO",
+          "type": "ACH debit",
+          "amount": -8.5
+        },
+        {
+          "date": "Apr 9, 2019",
+          "description": "UBER JUMP",
+          "type": "Card",
+          "amount": -0.97
+        },
+        {
+          "date": "Apr 9, 2019",
+          "description": "UBER JUMP",
+          "type": "Card",
+          "amount": -0.65
+        },
+        {
+          "date": "Apr 9, 2019",
+          "description": "ARAMARK SAC CFA",
+          "type": "Card",
+          "amount": -8.22
+        },
+        {
+          "date": "Apr 9, 2019",
+          "description": "UBER JUMP",
+          "type": "Card",
+          "amount": -0.97
+        },
+        {
+          "date": "Apr 9, 2019",
+          "description": "BODEGA ON RIO",
+          "type": "Card",
+          "amount": -1.94
+        },
+        {
+          "date": "Apr 9, 2019",
+          "description": "BODEGA ON RIO",
+          "type": "Card",
+          "amount": -12.69
+        },
+        {
+          "date": "Apr 9, 2019",
+          "description": "VENMO",
+          "type": "Card",
+          "amount": 13.25
+        }
+      ]
+    },
+    "Apr 8, 2019": {
+      "total": -54.74,
+      "count": 8,
+      "average": -6.84,
+      "data": [
+        {
+          "date": "Apr 8, 2019",
+          "description": "UBER EATS",
+          "type": "Card",
+          "amount": -13.09
+        },
+        {
+          "date": "Apr 8, 2019",
+          "description": "DOORDASH",
+          "type": "Card",
+          "amount": -20.87
+        },
+        {
+          "date": "Apr 8, 2019",
+          "description": "CHIPOTLE",
+          "type": "Card",
+          "amount": -8.66
+        },
+        {
+          "date": "Apr 8, 2019",
+          "description": "BODEGA ON RIO",
+          "type": "Card",
+          "amount": -14.93
+        },
+        {
+          "date": "Apr 8, 2019",
+          "description": "CHICK-FIL-A",
+          "type": "Card",
+          "amount": -7.74
+        },
+        {
+          "date": "Apr 8, 2019",
+          "description": "UBER JUMP",
+          "type": "Card",
+          "amount": -1.14
+        },
+        {
+          "date": "Apr 8, 2019",
+          "description": "BODEGA ON RIO",
+          "type": "Card",
+          "amount": -17.31
+        },
+        {
+          "date": "Apr 8, 2019",
+          "description": "VENMO",
+          "type": "ACH credit",
+          "amount": 29
+        }
+      ]
+    },
+    "Apr 4, 2019": {
+      "total": -58.69,
+      "count": 3,
+      "average": -19.56,
+      "data": [
+        {
+          "date": "Apr 4, 2019",
+          "description": "VENMO",
+          "type": "ACH debit",
+          "amount": -40
+        },
+        {
+          "date": "Apr 4, 2019",
+          "description": "UBER EATS",
+          "type": "Card",
+          "amount": -17.72
+        },
+        {
+          "date": "Apr 4, 2019",
+          "description": "UBER JUMP",
+          "type": "Card",
+          "amount": -0.97
+        }
+      ]
+    },
+    "Apr 3, 2019": {
+      "total": -26.65,
+      "count": 2,
+      "average": -13.32,
+      "data": [
+        {
+          "date": "Apr 3, 2019",
+          "description": "TORCHYS TACOS -",
+          "type": "Card",
+          "amount": -13.96
+        },
+        {
+          "date": "Apr 3, 2019",
+          "description": "BODEGA ON RIO",
+          "type": "Card",
+          "amount": -12.69
+        }
+      ]
+    },
+    "Apr 2, 2019": {
+      "total": -19.55,
+      "count": 2,
+      "average": -9.78,
+      "data": [
+        {
+          "date": "Apr 2, 2019",
+          "description": "VENMO",
+          "type": "ACH debit",
+          "amount": -12
+        },
+        {
+          "date": "Apr 2, 2019",
+          "description": "BODEGA ON RIO",
+          "type": "Card",
+          "amount": -7.55
+        }
+      ]
+    },
+    "Apr 1, 2019": {
+      "total": -130.82,
+      "count": 8,
+      "average": -16.35,
+      "data": [
+        {
+          "date": "Apr 1, 2019",
+          "description": "VENMO",
+          "type": "ACH debit",
+          "amount": -12
+        },
+        {
+          "date": "Apr 1, 2019",
+          "description": "PLUCKERS",
+          "type": "Card",
+          "amount": -16
+        },
+        {
+          "date": "Apr 1, 2019",
+          "description": "CHIPOTLE",
+          "type": "Card",
+          "amount": -8.66
+        },
+        {
+          "date": "Apr 1, 2019",
+          "description": "BAR TACO WESTBEND",
+          "type": "Card",
+          "amount": -12.28
+        },
+        {
+          "date": "Apr 1, 2019",
+          "description": "BAR TACO WESTBEND",
+          "type": "Card",
+          "amount": -8
+        },
+        {
+          "date": "Apr 1, 2019",
+          "description": "WHATABURGER",
+          "type": "Card",
+          "amount": -9.89
+        },
+        {
+          "date": "Apr 1, 2019",
+          "description": "AMPERSAND FW FORT",
+          "type": "Card",
+          "amount": -36
+        },
+        {
+          "date": "Apr 1, 2019",
+          "description": "AMPERSAND FW FORT",
+          "type": "Card",
+          "amount": -27.99
+        }
+      ]
+    }
+  },
+  "byDesc": {
+    "POS DEBIT UBER": {
+      "total": -0.65,
+      "count": 1,
+      "average": -0.65,
+      "data": [
+        {
+          "date": "Pending",
+          "description": "POS DEBIT UBER",
+          "type": "Misc. debit",
+          "amount": -0.65
+        }
+      ]
+    },
+    "DEPOSIT": {
+      "total": 100,
+      "count": 1,
+      "average": 100,
+      "data": [
+        {
+          "date": "Pending",
+          "description": "DEPOSIT",
+          "type": "Misc. credit",
+          "amount": 100
+        }
+      ]
+    },
+    "INSUFFICIENT FUNDS FEE": {
+      "total": -34,
+      "count": 1,
+      "average": -34,
+      "data": [
+        {
+          "date": "Apr 30, 2019",
+          "description": "INSUFFICIENT FUNDS FEE",
+          "type": "Fee",
+          "amount": -34
+        }
+      ]
+    },
+    "JUUL TOBACCO PRODUCTS": {
+      "total": -159.48,
+      "count": 2,
+      "average": -79.74,
+      "data": [
+        {
+          "date": "Apr 30, 2019",
+          "description": "JUUL TOBACCO PRODUCTS",
+          "type": "Card",
+          "amount": -79.74
+        },
+        {
+          "date": "Apr 11, 2019",
+          "description": "JUUL TOBACCO PRODUCTS",
+          "type": "Card",
+          "amount": -79.74
+        }
+      ]
+    },
+    "BODEGA ON RIO": {
+      "total": -115.21,
+      "count": 10,
+      "average": -11.52,
+      "data": [
+        {
+          "date": "Apr 29, 2019",
+          "description": "BODEGA ON RIO",
+          "type": "Card",
+          "amount": -14.01
+        },
+        {
+          "date": "Apr 29, 2019",
+          "description": "BODEGA ON RIO",
+          "type": "Card",
+          "amount": -17.31
+        },
+        {
+          "date": "Apr 23, 2019",
+          "description": "BODEGA ON RIO",
+          "type": "Card",
+          "amount": -8.37
+        },
+        {
+          "date": "Apr 10, 2019",
+          "description": "BODEGA ON RIO",
+          "type": "Card",
+          "amount": -8.41
+        },
+        {
+          "date": "Apr 9, 2019",
+          "description": "BODEGA ON RIO",
+          "type": "Card",
+          "amount": -1.94
+        },
+        {
+          "date": "Apr 9, 2019",
+          "description": "BODEGA ON RIO",
+          "type": "Card",
+          "amount": -12.69
+        },
+        {
+          "date": "Apr 8, 2019",
+          "description": "BODEGA ON RIO",
+          "type": "Card",
+          "amount": -14.93
+        },
+        {
+          "date": "Apr 8, 2019",
+          "description": "BODEGA ON RIO",
+          "type": "Card",
+          "amount": -17.31
+        },
+        {
+          "date": "Apr 3, 2019",
+          "description": "BODEGA ON RIO",
+          "type": "Card",
+          "amount": -12.69
+        },
+        {
+          "date": "Apr 2, 2019",
+          "description": "BODEGA ON RIO",
+          "type": "Card",
+          "amount": -7.55
+        }
+      ]
+    },
+    "UBER JUMP": {
+      "total": -10.21,
+      "count": 11,
+      "average": -0.93,
+      "data": [
+        {
+          "date": "Apr 29, 2019",
+          "description": "UBER JUMP",
+          "type": "Card",
+          "amount": -0.49
+        },
+        {
+          "date": "Apr 19, 2019",
+          "description": "UBER JUMP",
+          "type": "Card",
+          "amount": -0.65
+        },
+        {
+          "date": "Apr 19, 2019",
+          "description": "UBER JUMP",
+          "type": "Card",
+          "amount": -0.81
+        },
+        {
+          "date": "Apr 19, 2019",
+          "description": "UBER JUMP",
+          "type": "Card",
+          "amount": -1.62
+        },
+        {
+          "date": "Apr 19, 2019",
+          "description": "UBER JUMP",
+          "type": "Card",
+          "amount": -0.97
+        },
+        {
+          "date": "Apr 11, 2019",
+          "description": "UBER JUMP",
+          "type": "Card",
+          "amount": -0.97
+        },
+        {
+          "date": "Apr 9, 2019",
+          "description": "UBER JUMP",
+          "type": "Card",
+          "amount": -0.97
+        },
+        {
+          "date": "Apr 9, 2019",
+          "description": "UBER JUMP",
+          "type": "Card",
+          "amount": -0.65
+        },
+        {
+          "date": "Apr 9, 2019",
+          "description": "UBER JUMP",
+          "type": "Card",
+          "amount": -0.97
+        },
+        {
+          "date": "Apr 8, 2019",
+          "description": "UBER JUMP",
+          "type": "Card",
+          "amount": -1.14
+        },
+        {
+          "date": "Apr 4, 2019",
+          "description": "UBER JUMP",
+          "type": "Card",
+          "amount": -0.97
+        }
+      ]
+    },
+    "CHICK-FIL-A": {
+      "total": -15.48,
+      "count": 2,
+      "average": -7.74,
+      "data": [
+        {
+          "date": "Apr 29, 2019",
+          "description": "CHICK-FIL-A",
+          "type": "Card",
+          "amount": -7.74
+        },
+        {
+          "date": "Apr 8, 2019",
+          "description": "CHICK-FIL-A",
+          "type": "Card",
+          "amount": -7.74
+        }
+      ]
+    },
+    "VENMO": {
+      "total": 29.75,
+      "count": 10,
+      "average": 2.98,
+      "data": [
+        {
+          "date": "Apr 29, 2019",
+          "description": "VENMO",
+          "type": "Card",
+          "amount": 49.5
+        },
+        {
+          "date": "Apr 25, 2019",
+          "description": "VENMO",
+          "type": "ACH debit",
+          "amount": -10
+        },
+        {
+          "date": "Apr 15, 2019",
+          "description": "VENMO",
+          "type": "Card",
+          "amount": 4.75
+        },
+        {
+          "date": "Apr 15, 2019",
+          "description": "VENMO",
+          "type": "Card",
+          "amount": 15.75
+        },
+        {
+          "date": "Apr 9, 2019",
+          "description": "VENMO",
+          "type": "ACH debit",
+          "amount": -8.5
+        },
+        {
+          "date": "Apr 9, 2019",
+          "description": "VENMO",
+          "type": "Card",
+          "amount": 13.25
+        },
+        {
+          "date": "Apr 8, 2019",
+          "description": "VENMO",
+          "type": "ACH credit",
+          "amount": 29
+        },
+        {
+          "date": "Apr 4, 2019",
+          "description": "VENMO",
+          "type": "ACH debit",
+          "amount": -40
+        },
+        {
+          "date": "Apr 2, 2019",
+          "description": "VENMO",
+          "type": "ACH debit",
+          "amount": -12
+        },
+        {
+          "date": "Apr 1, 2019",
+          "description": "VENMO",
+          "type": "ACH debit",
+          "amount": -12
+        }
+      ]
+    },
+    "UBER EATS": {
+      "total": -102.81,
+      "count": 7,
+      "average": -14.69,
+      "data": [
+        {
+          "date": "Apr 25, 2019",
+          "description": "UBER EATS",
+          "type": "Card",
+          "amount": -13.8
+        },
+        {
+          "date": "Apr 23, 2019",
+          "description": "UBER EATS",
+          "type": "Card",
+          "amount": -12.95
+        },
+        {
+          "date": "Apr 15, 2019",
+          "description": "UBER EATS",
+          "type": "Card",
+          "amount": -31.24
+        },
+        {
+          "date": "Apr 11, 2019",
+          "description": "UBER EATS",
+          "type": "Card",
+          "amount": 12.95
+        },
+        {
+          "date": "Apr 10, 2019",
+          "description": "UBER EATS",
+          "type": "Card",
+          "amount": -26.96
+        },
+        {
+          "date": "Apr 8, 2019",
+          "description": "UBER EATS",
+          "type": "Card",
+          "amount": -13.09
+        },
+        {
+          "date": "Apr 4, 2019",
+          "description": "UBER EATS",
+          "type": "Card",
+          "amount": -17.72
+        }
+      ]
+    },
+    "PLUCKERS": {
+      "total": -30.61,
+      "count": 2,
+      "average": -15.3,
+      "data": [
+        {
+          "date": "Apr 22, 2019",
+          "description": "PLUCKERS",
+          "type": "Card",
+          "amount": -14.61
+        },
+        {
+          "date": "Apr 1, 2019",
+          "description": "PLUCKERS",
+          "type": "Card",
+          "amount": -16
+        }
+      ]
+    },
+    "CAIN AND ABELS": {
+      "total": -13.5,
+      "count": 2,
+      "average": -6.75,
+      "data": [
+        {
+          "date": "Apr 22, 2019",
+          "description": "CAIN AND ABELS",
+          "type": "Card",
+          "amount": -7.5
+        },
+        {
+          "date": "Apr 22, 2019",
+          "description": "CAIN AND ABELS",
+          "type": "Card",
+          "amount": -6
+        }
+      ]
+    },
+    "CHIPOTLE": {
+      "total": -30.82,
+      "count": 3,
+      "average": -10.27,
+      "data": [
+        {
+          "date": "Apr 22, 2019",
+          "description": "CHIPOTLE",
+          "type": "Card",
+          "amount": -13.5
+        },
+        {
+          "date": "Apr 8, 2019",
+          "description": "CHIPOTLE",
+          "type": "Card",
+          "amount": -8.66
+        },
+        {
+          "date": "Apr 1, 2019",
+          "description": "CHIPOTLE",
+          "type": "Card",
+          "amount": -8.66
+        }
+      ]
+    },
+    "DOORDASH": {
+      "total": -52.89,
+      "count": 2,
+      "average": -26.45,
+      "data": [
+        {
+          "date": "Apr 22, 2019",
+          "description": "DOORDASH",
+          "type": "Card",
+          "amount": -32.02
+        },
+        {
+          "date": "Apr 8, 2019",
+          "description": "DOORDASH",
+          "type": "Card",
+          "amount": -20.87
+        }
+      ]
+    },
+    "QUICKPAY WITH ZELLE": {
+      "total": 125,
+      "count": 1,
+      "average": 125,
+      "data": [
+        {
+          "date": "Apr 18, 2019",
+          "description": "QUICKPAY WITH ZELLE",
+          "type": "QuickPay credit",
+          "amount": 125
+        }
+      ]
+    },
+    "KINDLE UNLTD": {
+      "total": -10.81,
+      "count": 1,
+      "average": -10.81,
+      "data": [
+        {
+          "date": "Apr 11, 2019",
+          "description": "KINDLE UNLTD",
+          "type": "Card",
+          "amount": -10.81
+        }
+      ]
+    },
+    "APL": {
+      "total": -0.99,
+      "count": 1,
+      "average": -0.99,
+      "data": [
+        {
+          "date": "Apr 10, 2019",
+          "description": "APL",
+          "type": "Card",
+          "amount": -0.99
+        }
+      ]
+    },
+    "ARAMARK SAC CFA": {
+      "total": -8.22,
+      "count": 1,
+      "average": -8.22,
+      "data": [
+        {
+          "date": "Apr 9, 2019",
+          "description": "ARAMARK SAC CFA",
+          "type": "Card",
+          "amount": -8.22
+        }
+      ]
+    },
+    "TORCHYS TACOS -": {
+      "total": -13.96,
+      "count": 1,
+      "average": -13.96,
+      "data": [
+        {
+          "date": "Apr 3, 2019",
+          "description": "TORCHYS TACOS -",
+          "type": "Card",
+          "amount": -13.96
+        }
+      ]
+    },
+    "BAR TACO WESTBEND": {
+      "total": -20.28,
+      "count": 2,
+      "average": -10.14,
+      "data": [
+        {
+          "date": "Apr 1, 2019",
+          "description": "BAR TACO WESTBEND",
+          "type": "Card",
+          "amount": -12.28
+        },
+        {
+          "date": "Apr 1, 2019",
+          "description": "BAR TACO WESTBEND",
+          "type": "Card",
+          "amount": -8
+        }
+      ]
+    },
+    "WHATABURGER": {
+      "total": -9.89,
+      "count": 1,
+      "average": -9.89,
+      "data": [
+        {
+          "date": "Apr 1, 2019",
+          "description": "WHATABURGER",
+          "type": "Card",
+          "amount": -9.89
+        }
+      ]
+    },
+    "AMPERSAND FW FORT": {
+      "total": -63.99,
+      "count": 2,
+      "average": -31.99,
+      "data": [
+        {
+          "date": "Apr 1, 2019",
+          "description": "AMPERSAND FW FORT",
+          "type": "Card",
+          "amount": -36
+        },
+        {
+          "date": "Apr 1, 2019",
+          "description": "AMPERSAND FW FORT",
+          "type": "Card",
+          "amount": -27.99
+        }
+      ]
+    }
+  },
+  "byType": {
+    "Misc. debit": {
+      "total": -0.65,
+      "count": 1,
+      "average": -0.65,
+      "data": [
+        {
+          "date": "Pending",
+          "description": "POS DEBIT UBER",
+          "type": "Misc. debit",
+          "amount": -0.65
+        }
+      ]
+    },
+    "Misc. credit": {
+      "total": 100,
+      "count": 1,
+      "average": 100,
+      "data": [
+        {
+          "date": "Pending",
+          "description": "DEPOSIT",
+          "type": "Misc. credit",
+          "amount": 100
+        }
+      ]
+    },
+    "Fee": {
+      "total": -34,
+      "count": 1,
+      "average": -34,
+      "data": [
+        {
+          "date": "Apr 30, 2019",
+          "description": "INSUFFICIENT FUNDS FEE",
+          "type": "Fee",
+          "amount": -34
+        }
+      ]
+    },
+    "Card": {
+      "total": -575.9,
+      "count": 54,
+      "average": -10.66,
+      "data": [
+        {
+          "date": "Apr 30, 2019",
+          "description": "JUUL TOBACCO PRODUCTS",
+          "type": "Card",
+          "amount": -79.74
+        },
+        {
+          "date": "Apr 29, 2019",
+          "description": "BODEGA ON RIO",
+          "type": "Card",
+          "amount": -14.01
+        },
+        {
+          "date": "Apr 29, 2019",
+          "description": "BODEGA ON RIO",
+          "type": "Card",
+          "amount": -17.31
+        },
+        {
+          "date": "Apr 29, 2019",
+          "description": "UBER JUMP",
+          "type": "Card",
+          "amount": -0.49
+        },
+        {
+          "date": "Apr 29, 2019",
+          "description": "CHICK-FIL-A",
+          "type": "Card",
+          "amount": -7.74
+        },
+        {
+          "date": "Apr 29, 2019",
+          "description": "VENMO",
+          "type": "Card",
+          "amount": 49.5
+        },
+        {
+          "date": "Apr 25, 2019",
+          "description": "UBER EATS",
+          "type": "Card",
+          "amount": -13.8
+        },
+        {
+          "date": "Apr 23, 2019",
+          "description": "UBER EATS",
+          "type": "Card",
+          "amount": -12.95
+        },
+        {
+          "date": "Apr 23, 2019",
+          "description": "BODEGA ON RIO",
+          "type": "Card",
+          "amount": -8.37
+        },
+        {
+          "date": "Apr 22, 2019",
+          "description": "PLUCKERS",
+          "type": "Card",
+          "amount": -14.61
+        },
+        {
+          "date": "Apr 22, 2019",
+          "description": "CAIN AND ABELS",
+          "type": "Card",
+          "amount": -7.5
+        },
+        {
+          "date": "Apr 22, 2019",
+          "description": "CAIN AND ABELS",
+          "type": "Card",
+          "amount": -6
+        },
+        {
+          "date": "Apr 22, 2019",
+          "description": "CHIPOTLE",
+          "type": "Card",
+          "amount": -13.5
+        },
+        {
+          "date": "Apr 22, 2019",
+          "description": "DOORDASH",
+          "type": "Card",
+          "amount": -32.02
+        },
+        {
+          "date": "Apr 19, 2019",
+          "description": "UBER JUMP",
+          "type": "Card",
+          "amount": -0.65
+        },
+        {
+          "date": "Apr 19, 2019",
+          "description": "UBER JUMP",
+          "type": "Card",
+          "amount": -0.81
+        },
+        {
+          "date": "Apr 19, 2019",
+          "description": "UBER JUMP",
+          "type": "Card",
+          "amount": -1.62
+        },
+        {
+          "date": "Apr 19, 2019",
+          "description": "UBER JUMP",
+          "type": "Card",
+          "amount": -0.97
+        },
+        {
+          "date": "Apr 15, 2019",
+          "description": "UBER EATS",
+          "type": "Card",
+          "amount": -31.24
+        },
+        {
+          "date": "Apr 15, 2019",
+          "description": "VENMO",
+          "type": "Card",
+          "amount": 4.75
+        },
+        {
+          "date": "Apr 15, 2019",
+          "description": "VENMO",
+          "type": "Card",
+          "amount": 15.75
+        },
+        {
+          "date": "Apr 11, 2019",
+          "description": "JUUL TOBACCO PRODUCTS",
+          "type": "Card",
+          "amount": -79.74
+        },
+        {
+          "date": "Apr 11, 2019",
+          "description": "KINDLE UNLTD",
+          "type": "Card",
+          "amount": -10.81
+        },
+        {
+          "date": "Apr 11, 2019",
+          "description": "UBER JUMP",
+          "type": "Card",
+          "amount": -0.97
+        },
+        {
+          "date": "Apr 11, 2019",
+          "description": "UBER EATS",
+          "type": "Card",
+          "amount": 12.95
+        },
+        {
+          "date": "Apr 10, 2019",
+          "description": "APL",
+          "type": "Card",
+          "amount": -0.99
+        },
+        {
+          "date": "Apr 10, 2019",
+          "description": "UBER EATS",
+          "type": "Card",
+          "amount": -26.96
+        },
+        {
+          "date": "Apr 10, 2019",
+          "description": "BODEGA ON RIO",
+          "type": "Card",
+          "amount": -8.41
+        },
+        {
+          "date": "Apr 9, 2019",
+          "description": "UBER JUMP",
+          "type": "Card",
+          "amount": -0.97
+        },
+        {
+          "date": "Apr 9, 2019",
+          "description": "UBER JUMP",
+          "type": "Card",
+          "amount": -0.65
+        },
+        {
+          "date": "Apr 9, 2019",
+          "description": "ARAMARK SAC CFA",
+          "type": "Card",
+          "amount": -8.22
+        },
+        {
+          "date": "Apr 9, 2019",
+          "description": "UBER JUMP",
+          "type": "Card",
+          "amount": -0.97
+        },
+        {
+          "date": "Apr 9, 2019",
+          "description": "BODEGA ON RIO",
+          "type": "Card",
+          "amount": -1.94
+        },
+        {
+          "date": "Apr 9, 2019",
+          "description": "BODEGA ON RIO",
+          "type": "Card",
+          "amount": -12.69
+        },
+        {
+          "date": "Apr 9, 2019",
+          "description": "VENMO",
+          "type": "Card",
+          "amount": 13.25
+        },
+        {
+          "date": "Apr 8, 2019",
+          "description": "UBER EATS",
+          "type": "Card",
+          "amount": -13.09
+        },
+        {
+          "date": "Apr 8, 2019",
+          "description": "DOORDASH",
+          "type": "Card",
+          "amount": -20.87
+        },
+        {
+          "date": "Apr 8, 2019",
+          "description": "CHIPOTLE",
+          "type": "Card",
+          "amount": -8.66
+        },
+        {
+          "date": "Apr 8, 2019",
+          "description": "BODEGA ON RIO",
+          "type": "Card",
+          "amount": -14.93
+        },
+        {
+          "date": "Apr 8, 2019",
+          "description": "CHICK-FIL-A",
+          "type": "Card",
+          "amount": -7.74
+        },
+        {
+          "date": "Apr 8, 2019",
+          "description": "UBER JUMP",
+          "type": "Card",
+          "amount": -1.14
+        },
+        {
+          "date": "Apr 8, 2019",
+          "description": "BODEGA ON RIO",
+          "type": "Card",
+          "amount": -17.31
+        },
+        {
+          "date": "Apr 4, 2019",
+          "description": "UBER EATS",
+          "type": "Card",
+          "amount": -17.72
+        },
+        {
+          "date": "Apr 4, 2019",
+          "description": "UBER JUMP",
+          "type": "Card",
+          "amount": -0.97
+        },
+        {
+          "date": "Apr 3, 2019",
+          "description": "TORCHYS TACOS -",
+          "type": "Card",
+          "amount": -13.96
+        },
+        {
+          "date": "Apr 3, 2019",
+          "description": "BODEGA ON RIO",
+          "type": "Card",
+          "amount": -12.69
+        },
+        {
+          "date": "Apr 2, 2019",
+          "description": "BODEGA ON RIO",
+          "type": "Card",
+          "amount": -7.55
+        },
+        {
+          "date": "Apr 1, 2019",
+          "description": "PLUCKERS",
+          "type": "Card",
+          "amount": -16
+        },
+        {
+          "date": "Apr 1, 2019",
+          "description": "CHIPOTLE",
+          "type": "Card",
+          "amount": -8.66
+        },
+        {
+          "date": "Apr 1, 2019",
+          "description": "BAR TACO WESTBEND",
+          "type": "Card",
+          "amount": -12.28
+        },
+        {
+          "date": "Apr 1, 2019",
+          "description": "BAR TACO WESTBEND",
+          "type": "Card",
+          "amount": -8
+        },
+        {
+          "date": "Apr 1, 2019",
+          "description": "WHATABURGER",
+          "type": "Card",
+          "amount": -9.89
+        },
+        {
+          "date": "Apr 1, 2019",
+          "description": "AMPERSAND FW FORT",
+          "type": "Card",
+          "amount": -36
+        },
+        {
+          "date": "Apr 1, 2019",
+          "description": "AMPERSAND FW FORT",
+          "type": "Card",
+          "amount": -27.99
+        }
+      ]
+    },
+    "ACH debit": {
+      "total": -82.5,
+      "count": 5,
+      "average": -16.5,
+      "data": [
+        {
+          "date": "Apr 25, 2019",
+          "description": "VENMO",
+          "type": "ACH debit",
+          "amount": -10
+        },
+        {
+          "date": "Apr 9, 2019",
+          "description": "VENMO",
+          "type": "ACH debit",
+          "amount": -8.5
+        },
+        {
+          "date": "Apr 4, 2019",
+          "description": "VENMO",
+          "type": "ACH debit",
+          "amount": -40
+        },
+        {
+          "date": "Apr 2, 2019",
+          "description": "VENMO",
+          "type": "ACH debit",
+          "amount": -12
+        },
+        {
+          "date": "Apr 1, 2019",
+          "description": "VENMO",
+          "type": "ACH debit",
+          "amount": -12
+        }
+      ]
+    },
+    "QuickPay credit": {
+      "total": 125,
+      "count": 1,
+      "average": 125,
+      "data": [
+        {
+          "date": "Apr 18, 2019",
+          "description": "QUICKPAY WITH ZELLE",
+          "type": "QuickPay credit",
+          "amount": 125
+        }
+      ]
+    },
+    "ACH credit": {
+      "total": 29,
+      "count": 1,
+      "average": 29,
+      "data": [
+        {
+          "date": "Apr 8, 2019",
+          "description": "VENMO",
+          "type": "ACH credit",
+          "amount": 29
+        }
+      ]
+    }
+  }
+}

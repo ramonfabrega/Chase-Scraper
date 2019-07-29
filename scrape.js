@@ -7,7 +7,7 @@ const { filter } = require('./filter');
   const password = process.env.PASSWORD || credentials.password;
 
   const browser = await puppeteer.launch({
-    headless: true,
+    headless: false,
     userDataDir: './user_data'
   });
   const page = await browser.newPage();

@@ -1,9 +1,11 @@
 node_modules/
+test/
+user_data/
 
 credentials.js
 output.txt
+dump.json
+sample.js
 
-user_data/
 
-test/img
-test/transaction_log.csv
+
